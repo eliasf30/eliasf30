@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eliasf30
 - 👀 I’m interested in IT jobs
 - 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on fuol stsck development
+- 💞️ I’m looking to collaborate on full stack development
 - 📫 How to reach me  tel; 3512518967
 
 <!---
